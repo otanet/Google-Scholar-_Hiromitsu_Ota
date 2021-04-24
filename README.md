@@ -1,9 +1,10 @@
 ### Google-Scholar-_Hiromitsu_Ota
 ### This is my academic works.
 #### https://scholar.google.co.jp/citations?hl=ja&view_op=list_works&gmla=AJsN-F4rB1NgQXS_N4zlD6HFBH_QK025jwxoLLEPWsXCUt4ixkd6CqH3cUWMtC6E7VzGGikqJGJRclEVcpQdXjRVmLfLwXCjTR3BObOXZrak_eI0tugyi6EuRitsnw2g_uB2umcONBB7&user=eAW7tScAAAAJ
-
-####会話文の常識推論の実現に向けた一考察 -関連性理論及びポライトネスによるローカル化をつうじて-
+<br>
+会話文の常識推論の実現に向けた一考察 -関連性理論及びポライトネスによるローカル化をつうじて-
 太田博三
+</br>
 言語処理学会第27回年次大会(NLP2021) プログラム, https://www.anlp.jp/nlp2021 …		2021
 ポライトネス及び配慮表現コーパス作成と分析手法の一考察~ 対人関係を考慮した対話システムの適用に向けて~
 太田博三
